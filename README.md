@@ -10,8 +10,8 @@
   - AI-асистент: GitHub Copilot Student / Codeium
 ## Встановлення та запуск
   ```bash
-  git clone https://github.com/username/project.git
-  cd project
+  git clone https://github.com/wuriao/bse-lr1-Terekhova.git
+  cd Impulse
   python main.py
   ```
 ## Ліцензія
