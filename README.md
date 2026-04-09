@@ -11,7 +11,7 @@
 ## Встановлення та запуск
   ```bash
   git clone https://github.com/wuriao/bse-lr1-Terekhova.git
-  cd Impulse
+  cd bse-lr1-Terekhova
   python main.py
   ```
 ## Ліцензія
